@@ -1,0 +1,1 @@
+pyinstaller --add-data "haarcascade_frontalface_default.xml;." -n Demo --paths="C:\Users\assas.DESKTOP-BBBQHNC\AppData\Local\Programs\Python\Python39\lib\site-packages\cv2" -F main.py
